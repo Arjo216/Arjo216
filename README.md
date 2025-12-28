@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![]([(https://github.com/Arjo216/verity-afdi-1.0)])
+![](https://github.com/Arjo216/verity-afdi-1.0)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arjo216&icon=0&color=0)](https://visitcount.itsvg.in)
