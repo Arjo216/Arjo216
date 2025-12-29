@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently studying on: Final-year B.Tech (8th sem, MAKAUT) — building a production-oriented capstone prototype (VERITY / NEXUS-style) combining AI, distributed systems and post-quantum-aware design; maintaining a GitHub portfolio of AI/ML, DBMS and network engineering projects; <br><br>👯 I’m looking to collaborate on: open-source AI/ML models, high-scale database systems and tooling, network automation/SDN projects, FinTech prototypes, and end-to-end edge-AI + DevSecOps integrations.<br><br>🤝 I’m looking for help with: technical mentorship (system design & networking), mock interviews (coding + design), resume and GitHub portfolio reviews, cloud infra best practices, and guidance for Jobs / internship applications.<br><br>🌱 I’m currently learning: advanced databases (indexing, query optimization), distributed systems, network engineering and automation, PyTorch/transformer internals, DevOps/AIOps workflows, and basics of post-quantum cryptography.<br><br>💬 Ask me about: database design (SQL & NoSQL), network protocols and automation, placement strategy and FAANG-prep, creating a career-ready GitHub portfolio, and focused GATE study plans.<br><br>⚡ Fun fact: I’m a High Finance, Product Development, Systems Integration & Engineering enthusiast and I enjoy designing ambitious, research-oriented capstone projects (think NEXUS / VERITY) that demonstrate real-world systems thinking.
+
 📫 How to reach me: mannasamriddha472@gmail.com
 
 ## 🌐 Socials:
