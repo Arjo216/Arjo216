@@ -132,8 +132,6 @@
 
 <br>
 
-<br>
-
 <h3 align="center">🔝 Top Contributed Repositories</h3>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Arjo216&limit=5&theme=dark&combine_all_yearly_contributions=true" />
