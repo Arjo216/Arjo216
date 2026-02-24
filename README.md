@@ -81,7 +81,8 @@
 
 <br>
 
-<h2 align="center"> 💻 Technical Arsenal </h2>
+<h2 align="center"> 💻 Technical Arsenal 
+⚙️ Core Technology Stack </h2>
 
 <div align="center">
   
