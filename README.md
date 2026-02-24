@@ -15,7 +15,7 @@
     <td width="60%" valign="top">
       <h3 align="center">💫⚡ Executive Directive</h3>
       <p align="justify">
-        I am a specialized engineer bridging the gap between theoretical physics, AI-driven automation, and enterprise-grade distributed networks. My R&D focus is absolute: moving beyond static applications to build <b>self-evolving, autonomous infrastructures</b>. From simulating physics-bound drone swarms to architecting multi-node financial defense grids, I engineer systems designed for high-stakes, zero-trust environments.I bridge the gap between complex theoretical models (like Kappa-Köhler physics) and scalable, enterprise-grade engineering (Kubernetes, Docker, TimescaleDB).My R&D portfolio spans:-
+        I am a specialized engineer bridging the gap between theoretical physics, AI-driven automation, and enterprise-grade distributed networks. My R&D focus is absolute: moving beyond static applications to build <b>self-evolving, autonomous infrastructures</b>. From simulating physics-bound drone swarms to architecting multi-node financial defense grids,I engineer systems designed for high-stakes, zero-trust environments.I bridge the gap between complex theoretical models(like Kappa-Köhler physics) and scalable, enterprise-grade engineering (Kubernetes,Docker,TimescaleDB).My R&D portfolio spans:-
 
 * **post-quantum blockchain security, active multi-agent defense grids, and autonomous drone swarm command architectures**.
 
