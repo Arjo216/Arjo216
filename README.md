@@ -80,7 +80,7 @@
   <br>
   <ul>
     <li><b>CodeOPS ULTRA:</b> Highly optimized, advanced developer operations assistant engineered for maximum workflow efficiency.</li>
-    <li><b>Project ETHOS:</b> Autonomous active cyber-defense honeypot grid designed for instant threat termination.</li>
+    <li><b>Project Persistent Threat Shield:</b> Autonomous active cyber-defense honeypot grid designed for instant threat termination.</li>
     <li><b>CloudRanger Prime:</b> Autonomous Kubernetes defense agent detecting compromised pods in real-time.</li>
     <li><b>City Connect Omega:</b> Smart city traffic management system integrating advanced IoT protocols with Machine Learning.</li>
   </ul>
@@ -104,6 +104,8 @@
 * FinTech infrastructure and high-frequency trading automation.
 
 <br>
+
+---
 
 ### 💬 Let's Talk About:
 `Distributed Systems Design` • `Autonomous AI Architectures` • `Cybersecurity (Active Defense)` • `IoT & Smart City Logistics` • `Post-Quantum Readiness`
