@@ -27,7 +27,8 @@
 <br>
 
 ---
-      </p>
+      
+</p>
       <div align="center">
         📫 <b>Secure Channel:</b> <a href="mailto:mannasamriddha472@gmail.com">mannasamriddha472@gmail.com</a>
       </div>
