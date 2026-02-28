@@ -9,8 +9,8 @@
 </div>
 
 <br>
----
 
+---
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
