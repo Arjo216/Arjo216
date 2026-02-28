@@ -10,6 +10,8 @@
 
 <br>
 
+---
+
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -23,6 +25,8 @@
 * **Current Objective:** Building the next generation of "The Brain" for autonomous defense and logistics grids.
 
 <br>
+
+---
       </p>
       <div align="center">
         📫 <b>Secure Channel:</b> <a href="mailto:mannasamriddha472@gmail.com">mannasamriddha472@gmail.com</a>
@@ -41,6 +45,8 @@
 </table>
 
 <br>
+
+---
 
 <h2 align="center">⚔️ Flagship R&D Architectures</h2>
 
@@ -80,13 +86,15 @@
   <br>
   <ul>
     <li><b>CodeOPS ULTRA:</b> Highly optimized, advanced developer operations assistant engineered for maximum workflow efficiency.</li>
-    <li><b>Project Persistent Threat Shield:</b> Autonomous active cyber-defense honeypot grid designed for instant threat termination.</li>
+    <li><b>Persistent Threat Shield:</b> Autonomous active cyber-defense honeypot grid designed for instant threat termination.</li>
     <li><b>CloudRanger Prime:</b> Autonomous Kubernetes defense agent detecting compromised pods in real-time.</li>
     <li><b>City Connect Omega:</b> Smart city traffic management system integrating advanced IoT protocols with Machine Learning.</li>
   </ul>
 </details>
 
 <br>
+
+---
 
 ### 🚀 High-Impact R&D Domains
 
@@ -96,6 +104,8 @@
 * 🔐 **Emerging Tech (PQC & Data):** Building post-quantum resistant architectures and hyper-local environmental data intelligence grids (e.g., **QuantumGrid-PLUS**, **Purifine Ultra**).
 
 <br>
+
+---
 
 ### 👯 Let's Collaborate On:
 * Open-source AI/ML autonomous agents.
@@ -111,6 +121,8 @@
 `Distributed Systems Design` • `Autonomous AI Architectures` • `Cybersecurity (Active Defense)` • `IoT & Smart City Logistics` • `Post-Quantum Readiness`
 
 <br>
+
+---
 
 <h2 align="center"> 💻 Technical Arsenal 
 ⚙️ Core Technology Stack </h2>
@@ -133,6 +145,8 @@
 
 <br>
 
+---
+
 <h2 align="center">📊 Network Telemetry & Open Source Analytics</h2>
 
 <div align="center">
@@ -146,12 +160,16 @@
 
 <br>
 
+---
+
 <h3 align="center">🏆 Milestone Trophies</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arjo216&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 <br>
+
+---
 
 <h2 align="center">📡 Connect to the Grid</h2>
 
@@ -164,12 +182,16 @@
 
 <br>
 
+---
+
 <h3 align="center">🔝 Top Contributed Repositories</h3>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Arjo216&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
