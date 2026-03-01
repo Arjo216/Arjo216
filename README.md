@@ -83,7 +83,7 @@
 </table>
 
 <details>
-  <summary align="center"><b>📂 Expand for Secondary Systems (CodeOPS ULTRA, Project ETHOS, CloudRanger Prime)</b></summary>
+  <summary align="center"><b>📂 Expand for Secondary Systems (CodeOPS ULTRA, Persistent Threat Shield, CloudRanger Prime)</b></summary>
   <br>
   <ul>
     <li><b>CodeOPS ULTRA:</b> Highly optimized, advanced developer operations assistant engineered for maximum workflow efficiency.</li>
