@@ -98,7 +98,7 @@
 
 ### 🚀 High-Impact R&D Domains
 
-* 🔭 **Autonomous Defense & Security:** Engineering active defense loops and honeypots capable of autonomous threat termination (e.g., **Project ETHOS**, **Persistent Threat Shield**).
+* 🔭 **Autonomous Defense & Security:** Engineering active defense loops and honeypots capable of autonomous threat termination (e.g., **CloudRanger Prime**, **Persistent Threat Shield**).
 * 🌐 **Distributed & Federated Systems:** Architecting multi-node, self-healing infrastructures and financial defense grids using Docker and Wazuh (e.g., **VERITY**).
 * 🤖 **Advanced Robotics & Physics:** Simulating multi-agent drone swarms with custom physics engines, obstacle avoidance, and C2 architectures (e.g., **Neutralize-Alpha-Swarm**).
 * 🔐 **Emerging Tech (PQC & Data):** Building post-quantum resistant architectures and hyper-local environmental data intelligence grids (e.g., **QuantumGrid-PLUS**, **Purifine Ultra**).
