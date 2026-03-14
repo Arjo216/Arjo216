@@ -48,6 +48,59 @@
 
 ---
 
+<h2 align="center">🧠 Executive System Architecture</h2>
+
+```mermaid
+flowchart TD
+    %% Define custom Tokyo-Night inspired styles for GitHub rendering
+    classDef core fill:#000000,stroke:#00599C,stroke-width:4px,color:#ffffff,font-weight:bold;
+    classDef domain fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff,font-weight:bold;
+    classDef project fill:#161b22,stroke:#30363d,stroke-width:1.5px,color:#c9d1d9;
+    classDef tech fill:#00599C,stroke:#ffffff,stroke-width:1px,color:#ffffff,font-weight:bold;
+
+    %% Core Identity (The Central Node)
+    A{"SAMRIDDHA MANNA<br/>Autonomous Systems Engineer"}:::core
+
+    %% High-Impact Domains
+    subgraph Defense ["🛡️ AUTONOMOUS DEFENSE GRID"]
+        direction TB
+        A1[VERITY<br/>Multi-Node Federated Defense]:::project
+        A2[Persistent Threat Shield<br/>Active Honeypot Termination]:::project
+        A3[CloudRanger Prime<br/>K8s AI Defense Agent]:::project
+    end
+
+    subgraph QuantumPhysics ["🌌 POST-QUANTUM & PHYSICS"]
+        direction TB
+        B1[QuantumGrid-PLUS<br/>AI Sentinel + Lattice Crypto]:::project
+        B2[Purifine Ultra<br/>Kappa-Köhler Data Models]:::project
+    end
+
+    subgraph Robotics ["🚁 ADVANCED ROBOTICS & IOT"]
+        direction TB
+        C1[Neutralize-Alpha-Swarm<br/>C2 Swarm Physics Simulation]:::project
+        C2[City Connect Omega<br/>Smart City ML Logistics]:::project
+        C3[CodeOPS ULTRA<br/>Maximum Efficiency DevOps]:::project
+    end
+
+    %% Execution Routes
+    A ===>|Architects| Defense
+    A ===>|Engineers| QuantumPhysics
+    A ===>|Simulates| Robotics
+
+    %% Core Technology Foundation Layer
+    subgraph Foundation ["⚙️ CORE INFRASTRUCTURE LAYER"]
+        direction LR
+        T1(Systems: C++ / Rust / Python):::tech
+        T2(Intelligence: PyTorch / Neural Nets):::tech
+        T3(Deployment: Docker / Kubernetes):::tech
+        T4(Data: TimescaleDB / Kafka):::tech
+    end
+
+    %% Architectural Dependencies
+    Defense -.->|Runs on| Foundation
+    QuantumPhysics -.->|Runs on| Foundation
+    Robotics -.->|Runs on| Foundation
+```
 <h2 align="center">⚔️ Flagship R&D Architectures</h2>
 
 <table align="center">
