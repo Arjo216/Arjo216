@@ -29,7 +29,7 @@
       
 </p>
       <div align="center">
-  📫 <b>Let's Connect:</b> <a href="YOUR_UPWORK_PROFILE_LINK">Reach out via Upwork for project inquiries(https://www.upwork.com/freelancers/~015bde7d985ed25785)</a>
+  📫 <b>Let's Connect:</b> <a href="YOUR_UPWORK_PROFILE_LINK">Reach out via Upwork for project inquiries  (https://www.upwork.com/freelancers/~015bde7d985ed25785)</a>
 </div>
     
 </td>
