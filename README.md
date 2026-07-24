@@ -29,7 +29,7 @@
       
 </p>
       <div align="center">
-        📫 <b>Secure Channel:</b> <a href="mailto:mannasamriddha472@gmail.com">mannasamriddha472@gmail.com</a>
+        📫 <b>Let's Connect:</b> <a href="mailto:mannasamriddha472@gmail.com">mannasamriddha472@gmail.com</a>
       </div>
     </td>
     <td width="40%" valign="top">
