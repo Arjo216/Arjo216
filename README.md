@@ -31,7 +31,8 @@
       <div align="center">
   📫 <b>Let's Connect:</b> <a href="YOUR_UPWORK_PROFILE_LINK">Reach out via Upwork for project inquiries</a>
 </div>
-    </td>
+    
+</td>
     <td width="40%" valign="top">
       <h3 align="center">🛰️ Current Trajectory</h3>
       <ul>
