@@ -29,7 +29,7 @@
       
 </p>
       <div align="center">
-        📫 <b>Let's Connect:</b> <a href="mailto:mannasamriddha472@gmail.com">mannasamriddha472@gmail.com</a>
+        📫 <b>Let's Connect:</b> <a href=I am currently available for freelance engineering and architectural builds. If you would like to discuss a project, please reach out to me directly through my Upwork Profile (you can hyperlink this to your Upwork profile URL once it's fully published).>I am currently available for freelance engineering and architectural builds. If you would like to discuss a project, please reach out to me directly through my Upwork Profile (you can hyperlink this to your Upwork profile URL once it's fully published).</a>
       </div>
     </td>
     <td width="40%" valign="top">
